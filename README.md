@@ -1,6 +1,6 @@
 # ATM
 
-基于java Swing设计的ATM系统，数据库采用的是Oracle
+基于java Swing设计的ATM系统，大二下学期的java课设，数据库采用的是Oracle
 
 主要功能：
 
